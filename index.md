@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Aaron Adkins
+title: "Home"
 ---
 
 This is the test paragraph.
